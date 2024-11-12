@@ -1,0 +1,11 @@
+@media print {
+
+
+nav { display: none; }
+
+body {
+  margin:0;
+  background-color: #e5e6ee;;
+  font-family: serif;
+}
+}
